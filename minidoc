@@ -1,0 +1,43 @@
+staff id
+name
+sex
+dob
+pob
+nationality
+state of Origin
+LGA
+Town/Village
+Senatorial District
+Marital Status
+Name of Spouse
+
+Religion (1-4)
+Hobbies: name
+Contact: Permanent,contact,Residential,email,Telephone number.
+College
+faculty/school
+Department
+Senior Staff Category: Academic,administrative,technical
+Junior Staff Category: Administrative, Technical
+Membersip of Professional Bodies/Societies:Name
+First Appointment: Date of First Appointment,Job Title,Salary Level (Countiss/conauss::step)
+Current Appointment: Job Title, Current Salary Level, Date on Current Level
+Employment Status: Permanent, Temporary, Contract
+Health Status: Name (normal, disabled),Disabled Type, Type of Medication
+Accomodation Status: Uni owned, Uni Rented and Personally Owned/Rented.
+
+
+Children : name,dob,sex
+Passport: number,place of issue, date of issue
+Institutions Attended: Name of Institution, Date (from-to), Qualifications Obtained, Date of Qualifications
+Previous Employment: Name and Address of Organisation, Dates, Last post Held, Last Salary, Reason for Leaving
+Public Service Rendered: Type of Service : Give Details of Servce,Place of Service,Period of Service (dates)
+Publications: Title,Publisher,Date,Category code*A(1-6),Status(1-2)
+Research in Progress:Topic,Status (1-2),Funding Source,Value,Start Date, Amount Expended
+Next of Kin: Name,Relationship,Address,Telephone Number.
+
+Staff Sign, HOD sign, Registrar Sign (with date)
+
+
+.......
+LEAVE ROSTER
